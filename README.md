@@ -1,2 +1,2 @@
 # Stock-Price-Prediction-A-Performance-Comparison-of-LSTM-vs.-GRU
-This study compares the performance of LSTM and GRU neural networks in predicting stock prices, evaluating their accuracy and robustness across the same dataset.
+Comparative study using LSTM and GRU models to predict stock prices, analyzing accuracy and performance on the same dataset.
